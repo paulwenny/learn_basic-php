@@ -4,7 +4,7 @@ source : youtube channel "Web Programming UNPAS"
 
 📌 Task :
 1. ✅Belajar PHP untuk PEMULA | 1. Intro
-2. Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
+2. ✅Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
 3. Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
 4. Belajar PHP untuk PEMULA | 4. SINTAKS PHP
 5. Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
