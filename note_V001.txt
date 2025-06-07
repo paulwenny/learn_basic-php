@@ -1,0 +1,40 @@
+Belajar PHP untuk PEMULA | 1. Intro
+
+PHP adalah bahasa pemrograman BUKAN Pemberi Harapan Palsu
+
+Kenapa PHP?
+1. Relatif muda untuk di pelajari oleh pemula
+2. Pre-requisite HTML & CSS 
+3. Gratis & Open Source
+4. Dukungan banyak komunitas
+5. Dokumentasi yang lengkap
+6. PHP di buat khusus untuk web
+7. Kebantakan website di buat menggunkan PHP
+8. Banyak website besar di buat menggunakan PHP
+9. Content Management System yang menggunakan PHP
+10. Framework PHP yang banyak
+
+apa yang akan dipelajari?
+🔴 client-site vs server-side scripting
+🔴 static vs dynamic website
+🔴 persiapan lingkungan pengembangan
+🔴 sintaks PHP
+🔴 array
+🔴 request methotd
+🔴 studi kasus website sederhana
+🔴 database
+🔴 CRUD
+🔴 Login & registrasi
+🔴 Session & Cookie
+🔴 Ajax
+🔴 Upload file
+🔴 reporting
+🔴 web hosting
+
+apa yang harus disiapkan?
+🔴 code editor
+🔴 Web Server
+🔴 Web Browser
+🔴 Database Server
+
+SUDAH SIAP???
