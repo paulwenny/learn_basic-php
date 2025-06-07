@@ -2,5 +2,29 @@ learn_basic-php di buat untuk keperluan balajar PHP dasar
 
 source : youtube channel "Web Programming UNPAS"
 
-Task
-1. 
+📌 Task :
+1. Belajar PHP untuk PEMULA | 1. Intro
+2. Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
+3. Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
+4. Belajar PHP untuk PEMULA | 4. SINTAKS PHP
+5. Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
+6. Belajar PHP untuk PEMULA | 6. FUNCTION
+7. Belajar PHP untuk PEMULA | 7. ARRAY
+8. Belajar PHP untuk PEMULA | 8. ASSOCIATIVE ARRAY
+9. Belajar PHP untuk PEMULA | 9. GET & POST
+10.Belajar PHP untuk PEMULA | 10. DATABASE & MySQL
+11.Belajar PHP untuk PEMULA | 11. PHP & MySQL
+12.Belajar PHP untuk PEMULA | 12. INSERT & DELETE
+13.Belajar PHP untuk PEMULA | 13. UPDATE
+14.Belajar PHP untuk PEMULA | 14. SEARCHING
+15.Belajar PHP untuk PEMULA | 15. UPLOAD
+16.Belajar PHP untuk PEMULA | 16. REGISTRASI
+17.Belajar PHP untuk PEMULA | 17. LOGIN
+18.Belajar PHP untuk PEMULA | 18. SESSION
+19.Belajar PHP untuk PEMULA | 19. COOKIE (Remember Me)
+20.Belajar PHP untuk PEMULA | 20. PAGINATION
+21.Belajar PHP untuk PEMULA | 21. LIVE SEARCH (menggunakan AJAX)
+22.Belajar PHP untuk PEMULA | 22. LIVE SEARCH (menggunakan JQUERY)
+23.Belajar PHP untuk PEMULA | 23. PDF REPORTING
+24.Belajar PHP untuk PEMULA | 24. WEB HOSTING & DOMAIN NAME GRATIS
+25.Belajar PHP untuk PEMULA | 25. WEB HOSTING & DOMAIN NAME BERBAYAR (SELESAI)
