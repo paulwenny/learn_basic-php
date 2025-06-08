@@ -6,7 +6,11 @@ source : youtube channel "Web Programming UNPAS"
 1. ✅Belajar PHP untuk PEMULA | 1. Intro
 2. ✅Belajar PHP untuk PEMULA | 2. SEJARAH & KARAKTERISTIK PHP
 3. ✅Belajar PHP untuk PEMULA | 3. PERSIAPAN LINGKUNGAN PENGEMBANGAN
-4. Belajar PHP untuk PEMULA | 4. SINTAKS PHP
+4. ✅Belajar PHP untuk PEMULA | 4. SINTAKS PHP
+	> Standar Output
+	> Penulisan Sintaks PHP di dalam HTML dan sebaliknya
+	> Variabel dan Tipe Data
+	> Operator
 5. Belajar PHP untuk PEMULA | 5. STRUKTUR KENDALI
 6. Belajar PHP untuk PEMULA | 6. FUNCTION
 7. Belajar PHP untuk PEMULA | 7. ARRAY
